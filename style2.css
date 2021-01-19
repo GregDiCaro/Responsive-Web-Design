@@ -42,7 +42,6 @@ body {
 @media (min-width: 411px) and (max-width: 768px) {
   body {
     background-color: green;
-    overflow: hidden;
   }
   .container {
     display: flex;
@@ -79,9 +78,7 @@ body {
   }
 
   .large-text {
-    height: 100px;
-    width: 100px;
-    background-color: rgb(115, 194, 51);
+    background-color: rgb(84, 170, 13);
 
     border-radius: 50%;
     transition: 2s;
